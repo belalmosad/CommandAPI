@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qEngftmfdH1c5hnO/qcSFdyQPVxRLT92wWlNAdoJ8KaYny+CT/5LhFpStzaC8E4Q5HR6FU03RjidmOjG9mtMhQ==",
+  "dgSpecHash": "7P1KfOsCsiFU4N7by8lTdlzb2u5Hfoff/EfjQCMf4A/60RrQ8fMWZKo82WJE5V9suLdmKNCc2pP8uXuIwCfUjw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+  "projectFilePath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
