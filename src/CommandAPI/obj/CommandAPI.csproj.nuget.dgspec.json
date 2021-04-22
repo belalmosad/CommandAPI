@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj": {}
+    "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj": {
+    "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\CommandAPI.csproj",
+        "projectPath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\commandapi\\obj\\",
+        "outputPath": "D:\\Projects\\ASP.Net\\CommandAPISolution\\src\\CommandAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
