@@ -31,3 +31,5 @@ D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dl
 D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\ASP.Net\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

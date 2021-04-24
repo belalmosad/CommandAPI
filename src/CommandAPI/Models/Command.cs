@@ -18,4 +18,7 @@ namespace CommandAPI.Models
         public string CommandLine { get; set; }
 
     }
+
+
+    
 }
