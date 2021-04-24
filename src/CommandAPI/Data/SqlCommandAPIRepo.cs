@@ -5,6 +5,7 @@ using System.Linq;
 namespace CommandAPI.Data
 {
     
+    using System;
     public class SqlCommandAPIRepo : ICommandAPIRepo
     {
 
@@ -16,12 +17,20 @@ namespace CommandAPI.Data
 
         void ICommandAPIRepo.CreateCommand(Command cmd)
         {
-            throw new System.NotImplementedException();
+            if(cmd == null)
+            {
+                throw new ArgumentNullException(nameof(cmd));
+            }
+            _context.CommandItems.Add(cmd);
         }
 
         void ICommandAPIRepo.DeleteCommand(Command cmd)
         {
-            throw new System.NotImplementedException();
+            if(cmd == null)
+            {
+                throw new ArgumentNullException(nameof(cmd));
+            }
+            _context.CommandItems.Remove(cmd);
         }
 
         IEnumerable<Command> ICommandAPIRepo.GetAllCommands()
@@ -36,12 +45,12 @@ namespace CommandAPI.Data
 
         bool ICommandAPIRepo.SaveChanges()
         {
-            throw new System.NotImplementedException();
+            return (_context.SaveChanges() >= 0);
         }
 
         void ICommandAPIRepo.UpdateCommand(Command cmd)
         {
-            throw new System.NotImplementedException();
+            //We don't have to do anything here
         }
     }
 }
