@@ -103,3 +103,17 @@ D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\Co
 D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\ref\CommandAPI.Tests.dll
 D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.pdb
 D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.genruntimeconfig.cache
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\Projects\ASP.Net\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Moq.dll

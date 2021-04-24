@@ -6,7 +6,7 @@ using AutoMapper;
 using CommandAPI.Dtos;
 using Microsoft.AspNetCore.JsonPatch;
 
-namespace CommandAP.Controllers
+namespace CommandAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
